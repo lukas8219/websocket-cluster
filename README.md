@@ -1,0 +1,2 @@
+- Add Pino or Winston for logging better messages
+- Design a way to trim Redis Stream/or think of another way to new Nodes
