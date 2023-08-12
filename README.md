@@ -1,5 +1,5 @@
 - Add Pino or Winston for logging better messages
-- Design a way to trim Redis Stream/or think of another approach to listen new node
+- Design a way to trim Redis Stream/or think of another approach to listen new node - Sorted Sets
 - Solve the Distributed Clocks issue
 
 # BONUS
